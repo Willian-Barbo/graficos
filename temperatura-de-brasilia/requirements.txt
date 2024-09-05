@@ -1,0 +1,11 @@
+# Instruções para instalar as dependências:
+pip install -r requirements.txt
+
+# Para rodar o script de gráficos de linhas:
+python scripts/grafico_linhas.py
+
+# Para abrir um notebook Jupyter/como exemplo eu não usei Jupyter
+jupyter notebook notebooks/analise_interativa.ipynb
+
+# Instalando o pyarrow
+pip install pyarrow
